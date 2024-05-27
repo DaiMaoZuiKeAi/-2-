@@ -59,11 +59,12 @@ dimwishlist:item=3098328572&perks=3250034553,1885400500,1359896290,365154968#not
 dimwishlist:item=1050806815&perks=776531651,2048641572#notes:绑定了反转术士和虚空卯榫猎
 dimwishlist:item=1050806815&perks=3250034553,1885400500,1359896290,365154968#notes:PVP用大师射程
 
-
-
-
 //notes:典狱长的规则
 dimwishlist:item=1821529912&perks=1354429876,1546637391,744217850#notes:主要斩首与事不过四，弹夹越大越好
+//notes:星狐座
+dimwishlist:item=1622998472&perks=3700496672,3038247973#notes:工具枪
+//notes:历战伤痕
+dimwishlist:item=2099894368&perks=3700496672,3891536761#notes:工具枪
 
 
 
