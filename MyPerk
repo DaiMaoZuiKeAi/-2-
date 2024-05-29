@@ -1,10 +1,12 @@
 title:这是我自己的愿望清单
 description:这是我自己的愿望清单描述
 
-
+//notes:月之狂嚎(专家)3757612024
+dimwishlist:item=3757612024&perks=3017780555,4293542123#notes:毕业
+dimwishlist:item=3757612024&perks=1820235745,4293542123#notes:还能用
 //notes:月之狂嚎(普通)2763843899
-dimwishlist:item=2763843899&perks=3017780555,4293542123#notes:还能用
-
+dimwishlist:item=2763843899&perks=3017780555,4293542123#notes:毕业
+dimwishlist:item=2763843899&perks=1820235745,4293542123#notes:还能用
 
 //notes:绞刑判官SR4(勇者)205225492
 dimwishlist:item=205225492&perks=1087426260,3891536761,555281244#notes:附加或者战术弹夹
@@ -14,8 +16,6 @@ dimwishlist:item=205225492&perks=3700496672,3038247973#notes:工具枪
 dimwishlist:item=1453235079&perks=1087426260,3891536761,555281244#notes:附加或者战术弹夹
 dimwishlist:item=1453235079&perks=106909392,3891536761,555281244#notes:附加或者战术弹夹
 dimwishlist:item=1453235079&perks=3700496672,3038247973#notes:工具枪
-
-
 
 //notes:自制(勇者)2480074702
 dimwishlist:item=2480074702&perks=2822142346,2010801679,2396489472#notes:老版自制词条（老版的下位替代）
@@ -67,6 +67,8 @@ dimwishlist:item=3098328572&perks=3250034553,1885400500,1359896290,365154968#not
 dimwishlist:item=1050806815&perks=776531651,2048641572#notes:绑定了反转术士和虚空卯榫猎
 dimwishlist:item=1050806815&perks=3250034553,1885400500,1359896290,365154968#notes:PVP用大师射程
 
+//notes:隐士(普通)1050806815
+dimwishlist:item=3757612024&perks=1840239774,3230963543,3017780555,4293542123
 
 
 
@@ -80,6 +82,7 @@ dimwishlist:item=1622998472&perks=3700496672,3038247973#notes:工具枪
 dimwishlist:item=2099894368&perks=3700496672,3891536761#notes:工具枪
 //notes:赶秀人
 dimwishlist:item=1999754402&perks=1359896290,3891536761,744217850#notes:玩具枪，还能用
-
+//notes:赦免尘埃
+dimwishlist:item=3849810018&perks=3032599245,3300816228#notes:工具枪
 
 
